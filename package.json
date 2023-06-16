@@ -24,7 +24,7 @@
     "html-to-image": "^1.9.0",
     "snabbdom": "^3.1.0",
     "sockette": "^2.0.6",
-    "@fullcalendar/core": "^5.10.1",
+    "@fullcalendar/core": "^6.1.8",
     "@fullcalendar/daygrid": "^5.10.1",
     "@fullcalendar/interaction": "^5.10.1",
     "@fullcalendar/list": "^5.10.1",
